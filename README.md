@@ -6,10 +6,10 @@
 - :handshake: I’m looking for help with **Data Science**
 - :male-technologist: All of my projects are available at [https://github.com/abhishekjadhav3470](https://github.com/abhishekjadhav3470?tab=repositories)
 - :speech_bubble: Ask me about **SQL, Python, Machine Learning, Statistics, AWS, Snowflake, Deep Learning, Computer Vision**
-- :mailbox: How to reach me **abhishekjadhav3470@gmail.com**
+- :mailbox: How to reach me **shubhamchaudhary@ineuon.ai**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/your-linkedin-profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/your-linkedin-profile" height="30" width="40" />
+<a href="https://www.linkedin.com/in/your-linkedin-profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/shubham-chaudhary-6352a5189/)" height="30" width="40" />
 </a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
