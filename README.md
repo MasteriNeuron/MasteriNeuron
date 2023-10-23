@@ -1,6 +1,6 @@
-<h1 align="center">Abhishek Jadhav</h1>
+<h1 align="center">Master_Neuron</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekjadhav3470&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekjadhav3470" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekjadhav3470&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamchaudhary" /> </p>
 - :telescope: I’m currently working on **Machine Learning Projects**
 - :seedling: I’m currently learning **Deep Learning, Computer Vision**
 - :handshake: I’m looking for help with **Data Science**
