@@ -4,7 +4,7 @@
 - :telescope: I’m currently working on **Machine Learning Projects**
 - :seedling: I’m currently learning **Deep Learning, Computer Vision**
 - :handshake: I’m looking for help with **Data Science**
-- :male-technologist: All of my projects are available at [https://github.com/abhishekjadhav3470](https://github.com/abhishekjadhav3470?tab=repositories)
+- :male_technologist: All of my projects are available at [https://github.com/abhishekjadhav3470](https://github.com/abhishekjadhav3470?tab=repositories)
 - :speech_bubble: Ask me about **SQL, Python, Machine Learning, Statistics, AWS, Snowflake, Deep Learning, Computer Vision**
 - :mailbox: How to reach me **shubhamchaudhary@ineuon.ai**
 <h3 align="left">Connect with me:</h3>
