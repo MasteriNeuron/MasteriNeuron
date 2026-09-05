@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./dino.jpg" alt="Friendly dragon in an enchanted forest" width="100%" height="260"/>
+<img src="https://res.cloudinary.com/dqcvlj2il/image/upload/f_auto,q_auto,c_fill,g_auto,w_1200,h_360,r_36/v1708241533/ineurominds/cn0urs8ijtjryut0btpm.jpg" alt="Artificial intelligence brain on a computer chip" width="100%"/>
 
 <a href="https://www.linkedin.com/in/shubham-chaudhary1802/">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=90&lines=Architecting+Production-Grade+Agentic+AI+Systems;LLMs+%E2%80%A2+RAG+%E2%80%A2+Multi-Agent+Orchestration+%E2%80%A2+MLOps;40-60%25+Efficiency+Gains+%7C+99.5%25+Uptime+%7C+10K%2B+Users" alt="Typing SVG" />
@@ -33,10 +33,6 @@ philosophy: "Turn ambiguous business problems into deterministic, observable AI 
 - 🌱 Currently exploring **advanced agent evaluation, LLM fine-tuning, and cognitive architectures**
 - 🤝 Open to collaborating on **Generative AI, Agentic AI, and applied ML** projects
 - ⚡ Fun fact: I've deployed systems serving **10,000+ concurrent users at 99.5% uptime** — reliability is my love language
-
-<div align="center">
-  <img src="./dino.jpg" alt="Friendly dragon in an enchanted forest" width="420"/>
-</div>
 
 <br/>
 
