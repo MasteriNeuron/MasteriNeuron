@@ -1,285 +1,197 @@
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Shubham Chaudhary</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:0F2027&height=220&section=header&text=Shubham%20Chaudhary&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20Data%20Scientist%20%7C%20GenAI%20%26%20Agentic%20AI%20%7C%20MLOps&descAlignY=58&descSize=20" width="100%"/>
 
-<h3 align="center">
-Senior Data Scientist | Generative AI | Agentic AI | MLOps
-</h3>
-
-<p align="center">
-  <a href="https://github.com/MasteriNeuron">
-    <img src="https://komarev.com/ghpvc/?username=masterineuron&label=Profile%20Views&color=0e75b6&style=flat" alt="masterineuron" />
-  </a>
-</p>
-
----
-
-### 🚀 About Me
-
-- 🔭 Currently working on **Agentic AI, Multi-Agent Systems, MCP, and AI-powered DevOps automation**
-- 🧠 Building production-grade systems using **LLMs, RAG, Agentic AI, and Model Context Protocol (MCP)**
-- 🌱 Exploring **LLM Fine-Tuning, Advanced RAG, AI Agents, MLOps, and scalable AI architectures**
-- 👨‍💻 Experienced in designing and deploying **production AI/ML systems**
-- ☁️ Working with **AWS, Azure, GCP, Docker, Kubernetes, and CI/CD**
-- 🤖 Building intelligent automation with **LangChain, LlamaIndex, AutoGen, CrewAI, and MCP**
-- 🔍 Interested in **RAG, Hybrid Search, Semantic Retrieval, Embeddings, Cross-Encoder Reranking, and LLM Evaluation**
-- 🤝 Open to collaborating on **Generative AI, Agentic AI, Machine Learning, NLP, and MLOps projects**
-- 💬 Ask me about **Python, Machine Learning, Deep Learning, NLP, LLMs, RAG, Agentic AI, MCP, MLOps, and Cloud AI**
-- 📂 All my projects are available on **[GitHub](https://github.com/MasteriNeuron)**
-- 📫 Reach me at **shubhamchaudhary@ineuron.ai**
-
----
-
-### 🧠 Core Expertise
-
-```text
-Generative AI        → LLMs • RAG • Prompt Engineering • Fine-Tuning
-Agentic AI           → MCP • Multi-Agent Systems • Autonomous Agents
-Retrieval            → Embeddings • Vector Search • BM25 • HyDE • Reranking
-Machine Learning     → XGBoost • Random Forest • SVM • Ensemble Learning
-Deep Learning        → PyTorch • TensorFlow • CNNs • Transformers
-MLOps                → MLflow • CI/CD • Model Monitoring • Auto-Retraining
-Cloud                → AWS • Azure • GCP
-Infrastructure       → Docker • Kubernetes • FastAPI • Microservices
-Data Engineering     → Spark • Kafka • Hadoop • Hive • ETL
-Databases            → PostgreSQL • MySQL • MongoDB • BigQuery • Neo4j
-````
-
----
-
-### 🛠️ Languages and Tools
-
-<p align="left">
-
-<a href="https://www.python.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+<a href="https://www.linkedin.com/in/shubham-chaudhary1802/">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=90&lines=Architecting+Production-Grade+Agentic+AI+Systems;LLMs+%E2%80%A2+RAG+%E2%80%A2+Multi-Agent+Orchestration+%E2%80%A2+MLOps;40-60%25+Efficiency+Gains+%7C+99.5%25+Uptime+%7C+10K%2B+Users" alt="Typing SVG" />
 </a>
 
-<a href="https://www.gnu.org/software/bash/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/>
-</a>
+<br/>
 
-<a href="https://www.mysql.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-</a>
+<img src="https://komarev.com/ghpvc/?username=MasteriNeuron&label=Profile%20Views&color=58A6FF&style=for-the-badge" alt="Profile Views"/>
+<a href="https://www.linkedin.com/in/shubham-chaudhary1802/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:drsnchaudhary1998@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/MasteriNeuron"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
-<a href="https://www.postgresql.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-</a>
+</div>
 
-<a href="https://www.mongodb.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-</a>
+<br/>
 
-<a href="https://pytorch.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/>
-</a>
+## 🚀 About Me
 
-<a href="https://www.tensorflow.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/>
-</a>
-
-<a href="https://scikit-learn.org/" target="_blank">
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/>
-</a>
-
-<a href="https://www.docker.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-</a>
-
-<a href="https://kubernetes.io/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" alt="kubernetes" width="40" height="40"/>
-</a>
-
-<a href="https://aws.amazon.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-</a>
-
-<a href="https://azure.microsoft.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/>
-</a>
-
-<a href="https://cloud.google.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="gcp" width="40" height="40"/>
-</a>
-
-<a href="https://git-scm.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-</a>
-
-<a href="https://www.jenkins.io/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="jenkins" width="40" height="40"/>
-</a>
-
-<a href="https://fastapi.tiangolo.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/>
-</a>
-
-<a href="https://spark.apache.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachespark/apachespark-original.svg" alt="spark" width="40" height="40"/>
-</a>
-
-<a href="https://kafka.apache.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" alt="kafka" width="40" height="40"/>
-</a>
-
-<a href="https://www.langchain.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/langchain-ai/langchain/master/docs/static/img/langchain_stack.png" alt="langchain" width="40" height="40"/>
-</a>
-
-</p>
-
----
-
-### 🤖 Generative AI & Agentic AI
-
-```text
-LLMs
-├── GPT-4 / GPT-4o / GPT-4o-mini
-├── Claude
-├── Mistral
-├── Qwen
-├── Ollama
-└── Amazon Bedrock / Vertex AI
-
-RAG
-├── Dense Embeddings
-├── Semantic Search
-├── Hybrid Retrieval
-├── BM25
-├── HyDE
-├── Cross-Encoder Reranking
-├── Hard-Negative Mining
-└── Vector Databases
-
-Agentic AI
-├── Model Context Protocol (MCP)
-├── Multi-Agent Architecture
-├── Autonomous Agents
-├── LangChain
-├── LlamaIndex
-├── AutoGen
-└── CrewAI
+```yaml
+role: Senior Data Scientist @ Bristlecone, Bengaluru
+focus: Agentic AI • Generative AI • RAG • MLOps • Cloud-Native ML Systems
+currently_learning: M.Tech Data Science & AI, IIT Patna (part-time, in progress)
+experience: 3.5+ years shipping production AI systems at scale
+impact: "40-60% efficiency gains · 99.5% uptime · 10,000+ concurrent users"
+philosophy: "Turn ambiguous business problems into deterministic, observable AI systems."
 ```
 
----
+- 🔭 Building **ScrumAI** — a multi-agent, MCP-based platform that automates JIRA → Code → CI/CD → Review
+- 🧠 Deep expertise in **LLMs, RAG, Multi-Agent Systems (MCP), and MLOps** for production environments
+- 🌱 Currently exploring **advanced agent evaluation, LLM fine-tuning, and cognitive architectures**
+- 🤝 Open to collaborating on **Generative AI, Agentic AI, and applied ML** projects
+- ⚡ Fun fact: I've deployed systems serving **10,000+ concurrent users at 99.5% uptime** — reliability is my love language
 
-### 🔥 Featured Projects
+<br/>
 
-#### 🤖 ScrumAI — JIRA-to-Production AI Automation
+## 🧠 Core Expertise
 
-AI-powered DevOps automation platform that orchestrates the complete software delivery lifecycle.
+<table align="center">
+<tr>
+<td valign="top" width="50%">
 
-**Tech:** Python • FastAPI • MCP • GPT-4o-mini • Jenkins • SonarQube • Checkmarx One • MLflow • Databricks
+**🤖 Generative & Agentic AI**
+- LLMs — GPT-4, GPT-4o, Claude, Mistral, Ollama
+- RAG — Hybrid Retrieval, HyDE, Cross-Encoder Reranking
+- Agentic — MCP, Multi-Agent Systems, LangChain, LlamaIndex, CrewAI, AutoGen
 
-* ⚙️ Deterministic **9-state workflow engine**
-* 🤖 **5 specialised AI agents**
-* 🚀 Automated JIRA → Code → CI/CD → Quality → PR Review workflow
-* ⚡ **40% reduction in delivery cycle time**
-* 📈 **70% improvement in pipeline reliability**
-* 🔄 Supports **50+ concurrent ticket workflows**
+**📊 Machine Learning & DL**
+- XGBoost, CatBoost, Random Forest, Ensemble Methods
+- PyTorch, TensorFlow, CNNs, Transformers, Transfer Learning
 
----
+</td>
+<td valign="top" width="50%">
 
-#### 🧠 Megatron — Production RAG Chatbot
+**☁️ MLOps & Cloud**
+- AWS (SageMaker, ECS Fargate, Lambda, Bedrock)
+- Azure (AKS, Azure ML, DevOps), GCP (Vertex AI)
+- MLflow, Databricks, Docker, Kubernetes, CI/CD
 
-Large-scale educational RAG platform built over **30GB+ academic knowledge**.
+**🗄️ Data & Infra**
+- Spark, Kafka, Hive, ETL Pipelines
+- Pinecone, ChromaDB, FAISS, Neo4j
+- FastAPI, PostgreSQL, MongoDB, Prometheus/Grafana
 
-**Tech:** LangChain • LlamaIndex • GPT-4 • Pinecone • Whisper • FastAPI • AWS
+</td>
+</tr>
+</table>
 
-* 📚 30GB+ academic knowledge base
-* 🎥 Automated processing of educational videos
-* 📖 100+ books and research papers
-* 🔎 Semantic retrieval using vector databases
-* ⚡ **45% retrieval latency reduction**
-* 📈 **60% improvement in query resolution efficiency**
+<br/>
 
----
+## 🛠️ Tech Stack
 
-#### 🎯 AI-Powered Talent Matching Engine
+<div align="center">
 
-Production ATS matching platform using semantic embeddings and hybrid retrieval.
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+<br/>
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Spark](https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+<br/>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
-**Tech:** SentenceTransformers • GPT-4o • Pinecone • BM25 • Cross-Encoder • FastAPI
+</div>
 
-* 🔍 Hybrid **Vector + BM25 retrieval**
-* 🧠 Custom-trained SentenceTransformer
-* 🎯 Supervised contrastive learning
-* ⚔️ Hard-negative mining
-* 🔄 HyDE query expansion
-* 🔐 Automated PII redaction
-* 📈 **35% improvement in top-K precision**
+<br/>
 
----
+## 🔥 Featured Projects
 
-#### 🎓 Personalized Learning — MCP Multi-Agent System
+<table align="center">
+<tr>
+<td width="50%">
 
-Adaptive learning platform powered by multiple specialised AI agents.
+### 🤖 [ScrumAI — JIRA-to-Production Automation](https://github.com/MasteriNeuron)
+AI-powered DevOps platform with a deterministic 9-state workflow engine and 5 specialised MCP agents automating JIRA → Code → CI/CD → Review.
 
-**Tech:** MCP • GPT-4 • LangChain • AWS ECS Fargate • ALB • Prometheus
+`Python` `FastAPI` `MCP` `GPT-4o-mini` `Jenkins` `MLflow`
 
-* 🤖 Assessment Analyzer Agent
-* 🧩 Concept Mapper Agent
-* 📚 Content Recommendation Agent
-* 👥 Supports **10,000+ concurrent users**
-* 📈 **25% improvement in course completion**
-* 🟢 **99.5% production uptime**
+📈 **40%** faster delivery · **70%** more reliable pipelines
 
----
+</td>
+<td width="50%">
 
-#### ☁️ Industrial IoT — AI Fault Detection & Auto-Retraining
+### 🧠 [Megatron — Production RAG Chatbot](https://github.com/MasteriNeuron)
+Large-scale educational RAG platform over 30GB+ academic content with automated video/book ingestion and semantic retrieval.
 
-Cloud-native MLOps platform for real-time industrial fault detection.
+`LangChain` `LlamaIndex` `GPT-4` `Pinecone` `Whisper`
 
-**Tech:** Azure AKS • Docker • Kafka • Spark • MLflow • Azure ML • Terraform • GitHub Actions
+📈 **60%** better query resolution · **45%** lower latency
 
-* 📡 Real-time streaming pipeline
-* 🤖 Automated model retraining
-* 🔄 CI/CD-driven ML deployment
-* 📊 Prometheus & Grafana monitoring
-* 🟢 **99.5% uptime**
-* ♻️ **Zero manual retraining interventions**
+</td>
+</tr>
+<tr>
+<td width="50%">
 
----
+### 🎯 [AI-Powered Talent Matching Engine](https://github.com/MasteriNeuron)
+Hybrid resume–JD matching using SentenceTransformer bi-encoders, cross-encoder reranking, and HyDE query expansion.
 
-### 📊 GitHub Statistics
+`SentenceTransformers` `BM25` `Cross-Encoder` `FastAPI`
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=masterineuron&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
-</p>
+📈 **35%** precision gain over keyword-only ATS
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=masterineuron&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
-</p>
+</td>
+<td width="50%">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=masterineuron&theme=transparent&hide_border=true" alt="GitHub Streak" />
-</p>
+### 🎓 [Personalized Learning — MCP Multi-Agent](https://github.com/MasteriNeuron)
+Adaptive learning platform with Assessment, Concept Mapping, and Recommendation agents, deployed on ECS Fargate.
 
----
+`MCP` `GPT-4` `AWS ECS Fargate` `Prometheus`
 
-### 🤝 Connect With Me
+📈 **10,000+** concurrent users at **99.5%** uptime
 
-<p align="left">
+</td>
+</tr>
+</table>
 
-<a href="https://www.linkedin.com/in/shubham-chaudhary1802/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-</a>
+<br/>
 
-<a href="https://github.com/MasteriNeuron" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-MasteriNeuron-black?style=for-the-badge&logo=github" alt="GitHub"/>
-</a>
+## 📊 GitHub Analytics
 
-<a href="https://www.youtube.com/channel/UCSDlu_s1vu-EZKem2zkiXhw" target="_blank">
-<img src="https://img.shields.io/badge/YouTube-Channel-red?style=for-the-badge&logo=youtube" alt="YouTube"/>
-</a>
+<div align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=MasteriNeuron&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MasteriNeuron&layout=compact&theme=tokyonight&hide_border=true"/>
+</div>
 
-</p>
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MasteriNeuron&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</div>
 
----
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MasteriNeuron&theme=tokyo-night&hide_border=true" width="95%"/>
+</div>
 
-<p align="center">
-  <b>Building intelligent systems that turn complex problems into scalable AI solutions.</b>
-</p>
-```
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=MasteriNeuron&theme=tokyonight&no-frame=true&row=1&column=6" width="95%"/>
+</div>
 
-This positioning is **much stronger than your old README** for your current profile: it presents you as a **Senior Data Scientist / GenAI & Agentic AI Engineer**, rather than someone who is still “learning Computer Vision and NLP.”
+<br/>
+
+<!--START_SECTION:waka-->
+<!-- This section fills automatically once WakaTime/Snake action is configured — see snake.yml -->
+<!--END_SECTION:waka-->
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/MasteriNeuron/MasteriNeuron/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="95%"/>
+</div>
+
+<br/>
+
+<div align="center">
+
+### 💬 Let's build something intelligent together
+
+<a href="https://www.linkedin.com/in/shubham-chaudhary1802/"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin"/></a>
+<a href="https://github.com/MasteriNeuron"><img src="https://img.shields.io/badge/GitHub-MasteriNeuron-black?style=for-the-badge&logo=github"/></a>
+<a href="mailto:drsnchaudhary1998@gmail.com"><img src="https://img.shields.io/badge/Email-Reach_Out-red?style=for-the-badge&logo=gmail"/></a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:0F2027&height=100&section=footer" width="100%"/>
+
+</div>
