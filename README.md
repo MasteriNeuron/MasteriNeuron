@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:0F2027&height=220&section=header&text=Shubham%20Chaudhary&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20Data%20Scientist%20%7C%20GenAI%20%26%20Agentic%20AI%20%7C%20MLOps&descAlignY=58&descSize=20" width="100%"/>
+<img src="./dino.jpg" alt="Friendly dragon in an enchanted forest" width="100%" height="260"/>
 
 <a href="https://www.linkedin.com/in/shubham-chaudhary1802/">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=90&lines=Architecting+Production-Grade+Agentic+AI+Systems;LLMs+%E2%80%A2+RAG+%E2%80%A2+Multi-Agent+Orchestration+%E2%80%A2+MLOps;40-60%25+Efficiency+Gains+%7C+99.5%25+Uptime+%7C+10K%2B+Users" alt="Typing SVG" />
