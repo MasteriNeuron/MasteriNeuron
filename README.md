@@ -34,6 +34,10 @@ philosophy: "Turn ambiguous business problems into deterministic, observable AI 
 - 🤝 Open to collaborating on **Generative AI, Agentic AI, and applied ML** projects
 - ⚡ Fun fact: I've deployed systems serving **10,000+ concurrent users at 99.5% uptime** — reliability is my love language
 
+<div align="center">
+  <img src="./dino.jpg" alt="Friendly dragon in an enchanted forest" width="420"/>
+</div>
+
 <br/>
 
 ## 🧠 Core Expertise
