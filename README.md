@@ -1,9 +1,11 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/MasteriNeuron/MasteriNeuron/main/non-animated.gif" alt="Animated friendly AI robot mascot" width="240"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B9D,50:8E54E9,100:4776E6&height=200&section=header&text=Shubham%20Chaudhary&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Architecting%20Production-Grade%20Agentic%20AI%20Systems&descAlignY=58&descSize=18" width="100%"/>
+
+<img src="https://raw.githubusercontent.com/MasteriNeuron/MasteriNeuron/main/non-animated.gif" alt="Animated friendly AI robot mascot" width="220"/>
 
 <a href="https://www.linkedin.com/in/shubham-chaudhary1802/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=105&lines=Architecting+Production-Grade+Agentic+AI+Systems;LLMs+%E2%80%A2+RAG+%E2%80%A2+Multi-Agent+Orchestration+%E2%80%A2+MLOps;40-60%25+Efficiency+Gains+%7C+99.5%25+Uptime+%7C+10K%2B+Users" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=2600&pause=900&color=FF6B9D&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=100&lines=%F0%9F%9A%80+LLMs+%E2%80%A2+RAG+%E2%80%A2+Multi-Agent+Orchestration+%E2%80%A2+MLOps;%E2%9A%A1+40-60%25+Efficiency+Gains+%7C+99.5%25+Uptime+%7C+10K%2B+Users" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -12,10 +14,10 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=MasteriNeuron&label=Profile%20Views&color=58A6FF&style=for-the-badge" alt="Profile Views"/>
-<a href="https://www.linkedin.com/in/shubham-chaudhary1802/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:drsnchaudhary1998@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/MasteriNeuron"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<img src="https://komarev.com/ghpvc/?username=MasteriNeuron&label=PROFILE+VIEWS&color=FF6B9D&style=for-the-badge&labelColor=1a1a2e"/>
+<a href="https://www.linkedin.com/in/shubham-chaudhary1802/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e"/></a>
+<a href="mailto:drsnchaudhary1998@gmail.com"><img src="https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e"/></a>
+<a href="https://github.com/MasteriNeuron"><img src="https://img.shields.io/badge/GitHub-Follow-8E54E9?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e"/></a>
 
 </div>
 
@@ -39,6 +41,8 @@ philosophy: "Turn ambiguous business problems into deterministic, observable AI 
 - ⚡ Fun fact: I've deployed systems serving **10,000+ concurrent users at 99.5% uptime** — reliability is my love language
 
 <br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E54E9,100:4776E6&height=3&width=100%" width="100%"/>
 
 ## 🧠 Core Expertise
 
@@ -82,11 +86,11 @@ philosophy: "Turn ambiguous business problems into deterministic, observable AI 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 <br/>
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
@@ -103,6 +107,8 @@ philosophy: "Turn ambiguous business problems into deterministic, observable AI 
 </div>
 
 <br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E54E9,100:4776E6&height=3&width=100%" width="100%"/>
 
 ## 🔥 Featured Projects
 
@@ -155,39 +161,25 @@ Adaptive learning platform with Assessment, Concept Mapping, and Recommendation 
 
 <br/>
 
-## 🔗 Connect with me
-
-<div align="center">
-<a href="https://www.linkedin.com/in/shubham-chaudhary1802/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="48"/></a>
-<a href="mailto:drsnchaudhary1998@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="48"/></a>
-<a href="https://github.com/MasteriNeuron"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="48"/></a>
-</div>
-
-## 🧰 Languages and Tools
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,langchain,docker,kubernetes,aws,azure,gcp,kafka,spark,postgres,mongodb,neo4j,git,github,jenkins,grafana" alt="Languages and tools" />
-</div>
-
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E54E9,100:4776E6&height=3&width=100%" width="100%"/>
 
 ## 📊 GitHub Analytics
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=MasteriNeuron&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MasteriNeuron&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=MasteriNeuron&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0D1117&title_color=FF6B9D&icon_color=8E54E9"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MasteriNeuron&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B9D"/>
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MasteriNeuron&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MasteriNeuron&theme=radical&hide_border=true&background=0D1117&ring=FF6B9D&fire=8E54E9&currStreakLabel=FF6B9D" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MasteriNeuron&theme=tokyo-night&hide_border=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MasteriNeuron&theme=react-dark&hide_border=true&bg_color=0D1117&color=FF6B9D&line=8E54E9&point=ffffff" width="95%"/>
 </div>
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=MasteriNeuron&theme=tokyonight&no-frame=true&row=1&column=6" width="95%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=MasteriNeuron&theme=radical&no-frame=true&row=1&column=6" width="95%"/>
 </div>
 
 <br/>
@@ -204,14 +196,14 @@ Adaptive learning platform with Assessment, Concept Mapping, and Recommendation 
 
 <div align="center">
 
-### 💬 Let's build something intelligent together
+## 💬 Let's Build Something Intelligent Together
 
-<a href="https://www.linkedin.com/in/shubham-chaudhary1802/"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin"/></a>
-<a href="https://github.com/MasteriNeuron"><img src="https://img.shields.io/badge/GitHub-MasteriNeuron-black?style=for-the-badge&logo=github"/></a>
-<a href="mailto:drsnchaudhary1998@gmail.com"><img src="https://img.shields.io/badge/Email-Reach_Out-red?style=for-the-badge&logo=gmail"/></a>
+<a href="https://www.linkedin.com/in/shubham-chaudhary1802/"><img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/MasteriNeuron"><img src="https://img.shields.io/badge/GitHub-MasteriNeuron-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="mailto:drsnchaudhary1998@gmail.com"><img src="https://img.shields.io/badge/Email-Reach_Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:0F2027&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4776E6,50:8E54E9,100:FF6B9D&height=100&section=footer" width="100%"/>
 
 </div>
