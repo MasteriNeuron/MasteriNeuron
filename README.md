@@ -23,22 +23,31 @@
 
 <br/>
 
-## 🚀 About Me
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6B9D,50:8E54E9,100:4776E6&height=65&section=header&text=ABOUT%20ME&fontSize=28&fontColor=ffffff&fontAlignY=58&fontFamily=Poppins&animation=fadeIn" width="100%"/>
+</div>
 
-```yaml
-role: Senior Data Scientist @ Bristlecone, Bengaluru
-focus: Agentic AI • Generative AI • RAG • MLOps • Cloud-Native ML Systems
-currently_learning: M.Tech Data Science & AI, IIT Patna (part-time, in progress)
-experience: 3.5+ years shipping production AI systems at scale
-impact: "40-60% efficiency gains · 99.5% uptime · 10,000+ concurrent users"
-philosophy: "Turn ambiguous business problems into deterministic, observable AI systems."
-```
+<div align="center">
 
-- 🔭 Building **ScrumAI** — a multi-agent, MCP-based platform that automates JIRA → Code → CI/CD → Review
-- 🧠 Deep expertise in **LLMs, RAG, Multi-Agent Systems (MCP), and MLOps** for production environments
-- 🌱 Currently exploring **advanced agent evaluation, LLM fine-tuning, and cognitive architectures**
-- 🤝 Open to collaborating on **Generative AI, Agentic AI, and applied ML** projects
-- ⚡ Fun fact: I've deployed systems serving **10,000+ concurrent users at 99.5% uptime** — reliability is my love language
+<img src="https://img.shields.io/badge/ROLE-Senior%20Data%20Scientist%20%40%20Bristlecone-FF6B9D?style=for-the-badge&labelColor=1a1a2e"/>
+<img src="https://img.shields.io/badge/FOCUS-Agentic%20AI%20%E2%80%A2%20GenAI%20%E2%80%A2%20RAG%20%E2%80%A2%20MLOps-EE6FA8?style=for-the-badge&labelColor=1a1a2e"/>
+
+<img src="https://img.shields.io/badge/LEARNING-M.Tech%20Data%20Science%20%26%20AI%2C%20IIT%20Patna-C86DD7?style=for-the-badge&labelColor=1a1a2e"/>
+<img src="https://img.shields.io/badge/EXPERIENCE-3.5%2B%20Years%20Shipping%20Production%20AI-8E54E9?style=for-the-badge&labelColor=1a1a2e"/>
+
+<img src="https://img.shields.io/badge/IMPACT-40--60%25%20Efficiency%20%7C%2099.5%25%20Uptime%20%7C%2010K%2B%20Users-6C63FF?style=for-the-badge&labelColor=1a1a2e"/>
+
+<img src="https://img.shields.io/badge/PHILOSOPHY-Turn%20ambiguity%20into%20deterministic%2C%20observable%20AI%20systems-4776E6?style=for-the-badge&labelColor=1a1a2e"/>
+
+</div>
+
+<br/>
+
+- <img src="https://img.shields.io/badge/BUILDING-FF6B9D?style=flat-square&labelColor=1a1a2e"/> **ScrumAI** — a multi-agent, MCP-based platform that automates JIRA → Code → CI/CD → Review
+- <img src="https://img.shields.io/badge/EXPERTISE-C86DD7?style=flat-square&labelColor=1a1a2e"/> Deep expertise in **LLMs, RAG, Multi-Agent Systems (MCP), and MLOps** for production environments
+- <img src="https://img.shields.io/badge/EXPLORING-8E54E9?style=flat-square&labelColor=1a1a2e"/> Advanced agent evaluation, **LLM fine-tuning, and cognitive architectures**
+- <img src="https://img.shields.io/badge/OPEN%20TO-6C63FF?style=flat-square&labelColor=1a1a2e"/> Collaborating on **Generative AI, Agentic AI, and applied ML** projects
+- <img src="https://img.shields.io/badge/FUN%20FACT-4776E6?style=flat-square&labelColor=1a1a2e"/> I've deployed systems serving **10,000+ concurrent users at 99.5% uptime** — reliability is my love language
 
 <br/>
 
