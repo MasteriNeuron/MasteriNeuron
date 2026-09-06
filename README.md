@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/MasteriNeuron/MasteriNeuron/main/non-transparent.png" alt="Friendly AI robot mascot" width="240"/>
+<img src="https://raw.githubusercontent.com/MasteriNeuron/MasteriNeuron/main/non-animated.gif" alt="Animated friendly AI robot mascot" width="240"/>
 
 <a href="https://www.linkedin.com/in/shubham-chaudhary1802/">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=105&lines=Architecting+Production-Grade+Agentic+AI+Systems;LLMs+%E2%80%A2+RAG+%E2%80%A2+Multi-Agent+Orchestration+%E2%80%A2+MLOps;40-60%25+Efficiency+Gains+%7C+99.5%25+Uptime+%7C+10K%2B+Users" alt="Typing SVG" />
