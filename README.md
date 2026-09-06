@@ -53,30 +53,36 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E54E9,100:4776E6&height=3&width=100%" width="100%"/>
 
-## 🧠 Core Expertise
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6B9D,50:8E54E9,100:4776E6&height=65&section=header&text=CORE%20EXPERTISE&fontSize=28&fontColor=ffffff&fontAlignY=58&fontFamily=Poppins&animation=fadeIn" width="100%"/>
+</div>
 
 <table align="center">
 <tr>
 <td valign="top" width="50%">
 
-**🤖 Generative & Agentic AI**
+<img src="https://img.shields.io/badge/🤖%20GENERATIVE%20%26%20AGENTIC%20AI-FF6B9D?style=for-the-badge&labelColor=1a1a2e"/>
+
 - LLMs — GPT-4, GPT-4o, Claude, Mistral, Ollama
 - RAG — Hybrid Retrieval, HyDE, Cross-Encoder Reranking
 - Agentic — MCP, Multi-Agent Systems, LangChain, LlamaIndex, CrewAI, AutoGen
 
-**📊 Machine Learning & DL**
+<img src="https://img.shields.io/badge/📊%20MACHINE%20LEARNING%20%26%20DL-C86DD7?style=for-the-badge&labelColor=1a1a2e"/>
+
 - XGBoost, CatBoost, Random Forest, Ensemble Methods
 - PyTorch, TensorFlow, CNNs, Transformers, Transfer Learning
 
 </td>
 <td valign="top" width="50%">
 
-**☁️ MLOps & Cloud**
+<img src="https://img.shields.io/badge/☁️%20MLOPS%20%26%20CLOUD-8E54E9?style=for-the-badge&labelColor=1a1a2e"/>
+
 - AWS (SageMaker, ECS Fargate, Lambda, Bedrock)
 - Azure (AKS, Azure ML, DevOps), GCP (Vertex AI)
 - MLflow, Databricks, Docker, Kubernetes, CI/CD
 
-**🗄️ Data & Infra**
+<img src="https://img.shields.io/badge/🗄️%20DATA%20%26%20INFRA-4776E6?style=for-the-badge&labelColor=1a1a2e"/>
+
 - Spark, Kafka, Hive, ETL Pipelines
 - Pinecone, ChromaDB, FAISS, Neo4j
 - FastAPI, PostgreSQL, MongoDB, Prometheus/Grafana
@@ -87,7 +93,9 @@
 
 <br/>
 
-## 🛠️ Tech Stack
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E54E9,50:6C63FF,100:4776E6&height=65&section=header&text=TECH%20STACK&fontSize=28&fontColor=ffffff&fontAlignY=58&fontFamily=Poppins&animation=fadeIn" width="100%"/>
+</div>
 
 <div align="center">
 
@@ -119,50 +127,60 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E54E9,100:4776E6&height=3&width=100%" width="100%"/>
 
-## 🔥 Featured Projects
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6B9D,50:8E54E9,100:4776E6&height=65&section=header&text=FEATURED%20PROJECTS&fontSize=28&fontColor=ffffff&fontAlignY=58&fontFamily=Poppins&animation=fadeIn" width="100%"/>
+</div>
 
 <table align="center">
 <tr>
 <td width="50%">
+
+<img src="https://img.shields.io/badge/AGENTIC%20AI%20%7C%20DEVOPS-FF6B9D?style=flat-square&labelColor=1a1a2e"/>
 
 ### 🤖 [ScrumAI — JIRA-to-Production Automation](https://github.com/MasteriNeuron)
 AI-powered DevOps platform with a deterministic 9-state workflow engine and 5 specialised MCP agents automating JIRA → Code → CI/CD → Review.
 
 `Python` `FastAPI` `MCP` `GPT-4o-mini` `Jenkins` `MLflow`
 
-📈 **40%** faster delivery · **70%** more reliable pipelines
+<img src="https://img.shields.io/badge/📈%2040%25%20Faster%20Delivery%20%7C%2070%25%20More%20Reliable-FF6B9D?style=for-the-badge&labelColor=1a1a2e"/>
 
 </td>
 <td width="50%">
+
+<img src="https://img.shields.io/badge/RAG%20%7C%20NLP-C86DD7?style=flat-square&labelColor=1a1a2e"/>
 
 ### 🧠 [Megatron — Production RAG Chatbot](https://github.com/MasteriNeuron)
 Large-scale educational RAG platform over 30GB+ academic content with automated video/book ingestion and semantic retrieval.
 
 `LangChain` `LlamaIndex` `GPT-4` `Pinecone` `Whisper`
 
-📈 **60%** better query resolution · **45%** lower latency
+<img src="https://img.shields.io/badge/📈%2060%25%20Better%20Query%20Resolution%20%7C%2045%25%20Lower%20Latency-C86DD7?style=for-the-badge&labelColor=1a1a2e"/>
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
+<img src="https://img.shields.io/badge/NLP%20%7C%20RANKING-8E54E9?style=flat-square&labelColor=1a1a2e"/>
+
 ### 🎯 [AI-Powered Talent Matching Engine](https://github.com/MasteriNeuron)
 Hybrid resume–JD matching using SentenceTransformer bi-encoders, cross-encoder reranking, and HyDE query expansion.
 
 `SentenceTransformers` `BM25` `Cross-Encoder` `FastAPI`
 
-📈 **35%** precision gain over keyword-only ATS
+<img src="https://img.shields.io/badge/📈%2035%25%20Precision%20Gain%20Over%20Keyword--Only%20ATS-8E54E9?style=for-the-badge&labelColor=1a1a2e"/>
 
 </td>
 <td width="50%">
+
+<img src="https://img.shields.io/badge/MULTI--AGENT%20%7C%20EDTECH-4776E6?style=flat-square&labelColor=1a1a2e"/>
 
 ### 🎓 [Personalized Learning — MCP Multi-Agent](https://github.com/MasteriNeuron)
 Adaptive learning platform with Assessment, Concept Mapping, and Recommendation agents, deployed on ECS Fargate.
 
 `MCP` `GPT-4` `AWS ECS Fargate` `Prometheus`
 
-📈 **10,000+** concurrent users at **99.5%** uptime
+<img src="https://img.shields.io/badge/📈%2010%2C000%2B%20Users%20at%2099.5%25%20Uptime-4776E6?style=for-the-badge&labelColor=1a1a2e"/>
 
 </td>
 </tr>
@@ -172,7 +190,9 @@ Adaptive learning platform with Assessment, Concept Mapping, and Recommendation 
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E54E9,100:4776E6&height=3&width=100%" width="100%"/>
 
-## 📊 GitHub Analytics
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E54E9,50:C86DD7,100:FF6B9D&height=65&section=header&text=GITHUB%20ANALYTICS&fontSize=28&fontColor=ffffff&fontAlignY=58&fontFamily=Poppins&animation=fadeIn" width="100%"/>
+</div>
 
 <div align="center">
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=MasteriNeuron&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0D1117&title_color=FF6B9D&icon_color=8E54E9"/>
@@ -205,7 +225,9 @@ Adaptive learning platform with Assessment, Concept Mapping, and Recommendation 
 
 <div align="center">
 
-## 💬 Let's Build Something Intelligent Together
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4776E6,50:8E54E9,100:FF6B9D&height=65&section=header&text=LET%27S%20BUILD%20SOMETHING%20INTELLIGENT&fontSize=24&fontColor=ffffff&fontAlignY=58&fontFamily=Poppins&animation=fadeIn" width="100%"/>
+
+<br/>
 
 <a href="https://www.linkedin.com/in/shubham-chaudhary1802/"><img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/MasteriNeuron"><img src="https://img.shields.io/badge/GitHub-MasteriNeuron-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
